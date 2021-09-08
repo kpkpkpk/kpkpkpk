@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kpkpkpk and I'm junior android developer. 
-- Write code in java
+- Write code in java and kotlin
 - I completed courses at samsung it school with the best teacher 
 
 <!---
